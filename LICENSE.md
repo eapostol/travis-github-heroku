@@ -1,74 +1,10 @@
-# Project Title
+# LICENSE
 
-One Paragraph of project description goes here
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+If this program accidentally screws up and destroys data on your PC, electrocutes you, makes your monitor explode in your face, set's your house on fire, kills you, changes all the text you say in online games to oink, causes everyone on the planet(and beyond) to try to kill you, hacks into a nearby nuclear missile and targets your house, changes your bank balance to $0, gets you banned from online games, adds your name to a hitman's list, sucks you into the computer and plays pong with you(with you as ball), causes secret agencies to come after you, makes you believe you got maggots crawling under your skin, turns your room into a gate to hell, becomes sentient and starts killing everyone on this planet, gets you sent to jail with a guy named big bubba or does anything else you don't want it to do, don't blame the author of this program!!
 
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
-
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-
-Explain how to run the automated tests for this system
-
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
-Add additional notes about how to deploy this on a live system
-
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Disclaimer
+I don't claim this software is good for anything. If you think it is, cool. If it doesn't work, that's too bad.
+If you lose a million because it crashes, it's you that loses a million, not I. If you don't like this disclaimer, that's too bad.
+I reserve the right to do the absolute minimum provided by law, up to and including absolutely nothing.

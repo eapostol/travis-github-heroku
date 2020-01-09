@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/travis-github-heroku.iml" filepath="$PROJECT_DIR$/travis-github-heroku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../travisgithubheroku/travis-github-heroku.iml" filepath="$PROJECT_DIR$/../travisgithubheroku/travis-github-heroku.iml" />
     </modules>
   </component>
 </project>
