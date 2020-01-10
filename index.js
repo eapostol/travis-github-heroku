@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     res.send('Test CI with Travis 1.0');
 });
 
-const server = app.listen(PORT, () => {
+var server = app.listen(PORT, () => {
     // eslint-disable-next-line no-console
     console.log('app running on port 3001');
 });

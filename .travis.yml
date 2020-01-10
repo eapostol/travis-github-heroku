@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - stable
+deploy:
+  provider: heroku
+  api_key:
+    secure:
+      put: DspJTzCdz7FYwPShn14R9UVot0pOLitynE1CfsJGsthdya6GlsUxGGtYI5nJ93u4y4I8X2y7Laho5UdCcyE+09gmbZD4EtTj8z0h+/RQU/ZhNwtFyHNy1dNe6sJK5R4avHoqerAvEQO2elScg8SWDYhW0DVV2c53TBiXKDABHM54DfUEcY9p30ajM8iRhJTkkRWyE1I4AZviW6ZfTmQ9sX9jHsMJB1oKqd6B4cRUz94/QxrRlo3fMUBupCHrQ9GsPXqjGO7YloFZHuC8sFysBIkdTlxnHCI84FncZ3lkYgiM98rfkr9uOkrZns5VEhcuvuzKaro2UYw4d2h/7ozFVz+5l+Q6peG0HziyKpWPnxjH1zmoY5GxNiGM8HsAsmh0/yfYsfnvwDs1Pi2MO3cN8MXOmz2u/CHGiSvdKQpF5kL7+8KqxGAEfXMjV5bdzE9viT7PMXQfN3MYS3015U8LkTzYrPbZVOJsdr3lmgHQnZqw3DH9XbG6iO8cpNbbparXiR0lzZHhz1QO1DTih3QccDw7MiAk0cNqpCHBApqBetVvJSFYzINsRurGA5pHI3MnPtutBogzeNL+BGcsN/40GfdzYZEqjI8sspzvsWNZkhgxOXEa1zW83OoWZLQSxvfYMtpJXh97aGV5ShvbcNJ1xM6LSCtbeGv9sA77NCdlLVg=
+  app:
+    name: evening-scrubland-44883
+  on:
+    repo: eapostol/travis-github-heroku
